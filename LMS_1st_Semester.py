@@ -198,11 +198,11 @@ while condition == 'y':
         books_display(book_details)
         books_edit(book_details)
 
-    elif choice == '6':
+    elif choice == '6':using
         Issue_Book(members,books)
     elif choice == '7':
 
         book_return(books)
     condition = input("Do you want to use the program again? Press y/n :\n")
 print(book_issue)
-print("Thank you for using Program")
+print("Thank you for using our Program :)")
