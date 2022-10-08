@@ -198,7 +198,7 @@ while condition == 'y':
         books_display(book_details)
         books_edit(book_details)
 
-    elif choice == '6':using
+    elif choice == '6':
         Issue_Book(members,books)
     elif choice == '7':
 
